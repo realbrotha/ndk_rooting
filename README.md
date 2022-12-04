@@ -1,4 +1,5 @@
-# ndk_rooting
+# ndk_rooting 
+* Android NDK 기반의 간단한 루팅 탐지 프로젝트
 ## 사용 방법
 ### 빌드
 ```
