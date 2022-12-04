@@ -1,5 +1,6 @@
 # ndk_rooting 
 * Android NDK 기반의 간단한 루팅 탐지 프로젝트
+* 안드로이드 권한에 관한 이슈가 존재함 (예, QueryAllPackages)
 ## 사용 방법
 ### 빌드
 ```
